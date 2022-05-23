@@ -1,0 +1,13 @@
+body{
+    background-color:#A9F7F8;
+    color:rgb(255, 255, 255);
+    font-family: 'Poppins', sans-serif;
+    margin:auto;
+    width:80%;
+    text-align:center;
+}
+
+a:hover {
+    color:aliceblue;
+}
+
